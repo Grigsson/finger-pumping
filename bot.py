@@ -8,7 +8,7 @@ import asyncio
 logging.basicConfig(level=logging.INFO)
 
 # Укажите токен вашего бота
-API_TOKEN = "7734875030:AAECsJo1RdUUznAe6LWr2htKAXJHO6HVF08" 
+API_TOKEN = "" 
 
 # Инициализация бота и диспетчера
 bot = Bot(token=API_TOKEN)
